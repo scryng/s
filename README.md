@@ -4,10 +4,10 @@
 
 ###
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
-      <table>
+      <table border="0">
         <tr>
           <td align="center">
             <a href="https://www.lua.org/docs.html" target="blank"><img src="https://skillicons.dev/icons?i=lua" height="50" alt="lua logo" /></a>
@@ -51,10 +51,10 @@
 
 ###
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
-      <table>
+      <table border="0">
         <tr>
           <td align="center">
             <a href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" /></a>
@@ -103,10 +103,10 @@
 
 ###
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
-      <table>
+      <table border="0">
         <tr>
           <td align="center">
             <a href="https://code.visualstudio.com" target="blank"><img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" /></a>

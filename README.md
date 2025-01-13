@@ -13,7 +13,7 @@
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scryng&locale=en&hide_title=false&layout=compact&card_width=388&langs_count=10&theme=react&hide_border=true&custom_title=Most%20used%20on%20GitHub:"/>
 </div>
-
+<!-- 
 <h2 align="center">Technologies</h2>
 <div align="center">
   <a href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git" height="40" width="40" /></a>
@@ -70,4 +70,4 @@
 <div align="center">
   <a href="https://discord.com" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" /></a>
   <a href="" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" height="40" width="40" /></a>
-</div>
+</div> -->

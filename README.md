@@ -1,141 +1,73 @@
-###
+<h2 align="center">Languages</h2>
+<div align="center">
+  <a href="https://docs.oracle.com/en/java/" target="blank"><img src="https://skillicons.dev/icons?i=java" height="40" width="40" /></a>
+  <a href="https://docs.python.org/" target="blank"><img src="https://skillicons.dev/icons?i=py" height="40" width="40" /></a>
+  <a href="https://www.lua.org/docs.html" target="blank"><img src="https://skillicons.dev/icons?i=lua" height="40" width="40" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="blank"><img src="https://skillicons.dev/icons?i=cs" height="40" width="40" /></a>
+  <a href="https://learn.microsoft.com/pt-br/cpp/" target="blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" width="40" /></a>
+  <a href="https://www.typescriptlang.org" target="blank"><img src="https://skillicons.dev/icons?i=typescript" height="40" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://skillicons.dev/icons?i=js" height="40" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://skillicons.dev/icons?i=html" height="40" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css" height="40" width="40" /></a>
+</div>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scryng&locale=en&hide_title=false&layout=compact&card_width=388&langs_count=10&theme=react&hide_border=true&custom_title=Most%20used%20on%20GitHub:"/>
+</div>
 
-<h1 align="center">Languages</h1>
+<h2 align="center">Technologies</h2>
+<div align="center">
+  <a href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git" height="40" width="40" /></a>
+  <a href="https://cloud.google.com/docs" target="blank"><img src="https://skillicons.dev/icons?i=gcp" height="40" width="40" /></a>
+  <a href="https://docs.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" height="40" width="40" /></a>
+  <a href="https://kubernetes.io/docs/" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" width="40" /></a>
+</div>
 
-###
+<h2 align="center">Frameworks</h2>
+<div align="center">
+  <a href="https://fastapi.tiangolo.com/" target="blank"><img src="https://skillicons.dev/icons?i=fastapi" height="40" width="40" /></a>
+  <a href="https://react.dev/learn" target="blank"><img src="https://skillicons.dev/icons?i=react" height="40" width="40" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="blank"><img src="https://skillicons.dev/icons?i=dotnet" height="40" width="40" /></a>
+  <a href="https://nodejs.org/en/docs/" target="blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" width="40" /></a>
+</div>
 
-<table align="center" border="0">
-  <tr>
-    <td>
-      <table border="0">
-        <tr>
-          <td align="center">
-            <a href="https://www.lua.org/docs.html" target="blank"><img src="https://skillicons.dev/icons?i=lua" height="50" alt="lua logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://docs.oracle.com/en/java/" target="blank"><img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://docs.python.org/" target="blank"><img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="blank"><img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" /></a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <a href="https://learn.microsoft.com/pt-br/cpp/" target="blank"><img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" /></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scryng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="118" alt="languages graph" />
-    </td>
-  </tr>
-</table>
+<h2 align="center">Libraries</h2>
+<div align="center">
+<a href="https://streamlit.io" target="blank"><img src="https://images.seeklogo.com/logo-png/44/2/streamlit-logo-png_seeklogo-441815.png" height="40"  /></a>
+  <a href="https://www.rabbitmq.com/documentation.html" target="blank"><img src="https://skillicons.dev/icons?i=rabbitmq" height="40" width="40" /></a>
+  <a href="https://redis.io/docs/" target="blank"><img src="https://skillicons.dev/icons?i=redis" height="40" width="40" /></a>
+</div>
+
+<h2 align="center">Database Management Systems </h2>
+<div align="center">
+  <a href="https://www.mongodb.com/docs/" target="blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" /></a>
+  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=postgresql" height="40" width="40" /></a>
+  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=mysql" height="40" width="40" /></a>
+  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=sqlite" height="40" width="40" /></a>
+  <a href="" target="blank"><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_white.svg" height="40" width="40" /></a>
+</div>
+
+<h2 align="center">Operating Systems</h2>
+<div align="center">
+  <a href="https://ubuntu.com" target="blank"><img src="https://skillicons.dev/icons?i=ubuntu" height="40" width="40" /></a>
+  <a href="https://www.microsoft.com/pt-br/windows/" target="blank"><img src="https://skillicons.dev/icons?i=windows" height="40" width="40" /></a>
+</div>
+
+<h2 align="center">IDEs & Editors</h2>
+<div align="center">
+  <a href="https://code.visualstudio.com" target="blank"><img src="https://skillicons.dev/icons?i=vscode" height="40" width="40" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="40" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="40" /></a>
+</div>
 
 
-###
+<h2 align="center">Software Tools</h2>
+<div align="center">
+  <a href="https://www.figma.com" target="blank"><img src="https://skillicons.dev/icons?i=figma" height="40" width="40" /></a>
+  <a href="https://www.adobe.com/br/products/photoshop.html" target="blank"><img src="https://skillicons.dev/icons?i=ps" height="40" width="40" /></a>
+</div>
 
-<h1 align="center">Technologies</h1>
-
-###
-
-<table align="center" border="0">
-  <tr>
-    <td>
-      <table border="0">
-        <tr>
-          <td align="center">
-            <a href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://fastapi.tiangolo.com/" target="blank"><img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://learn.microsoft.com/en-us/dotnet/" target="blank"><img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://docs.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://cloud.google.com/docs" target="blank"><img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://www.mongodb.com/docs/" target="blank"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://nodejs.org/en/docs/" target="blank"><img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" /></a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <a href="https://react.dev/learn" target="blank"><img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://kubernetes.io/docs/" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://www.rabbitmq.com/documentation.html" target="blank"><img src="https://skillicons.dev/icons?i=rabbitmq" height="50" alt="rabbitmq logo"  /></a>
-          </td>
-          <td align="center">
-            <a href="https://redis.io/docs/" target="blank"><img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  /></a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-###
-
-<h1 align="center">Softwares</h1>
-
-###
-
-<table align="center" border="0">
-  <tr>
-    <td>
-      <table border="0">
-        <tr>
-          <td align="center">
-            <a href="https://code.visualstudio.com" target="blank"><img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://www.jetbrains.com/idea/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://www.microsoft.com/pt-br/windows/" target="blank"><img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://ubuntu.com" target="blank"><img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="ubuntu logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://www.figma.com" target="blank"><img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo" /></a>
-          </td>
-          <td align="center">
-            <a href="https://www.adobe.com/br/products/photoshop.html" target="blank"><img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo" /></a>
-          </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://discord.com" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo" /></a>
-            </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<h2 align="center">Collaboration Tools</h2>
+<div align="center">
+  <a href="https://discord.com" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="40" width="40" /></a>
+  <a href="" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" height="40" width="40" /></a>
+</div>

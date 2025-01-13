@@ -55,7 +55,7 @@
       </table>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scryng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="137" alt="languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scryng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="118" alt="languages graph" />
     </td>
   </tr>
 </table>
@@ -67,31 +67,52 @@
 
 ###
 
-<div align="center">
-    <a href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" /></a>
-    <img width="12" /> 
-    <a href="https://fastapi.tiangolo.com/" target="blank"><img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" /></a>
-    <img width="12" /> 
-    <a href="https://learn.microsoft.com/en-us/dotnet/" target="blank"><img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo" /></a>
-    <img width="12" /> 
-    <a href="https://docs.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" /></a>
-    <img width="12" /> 
-    <a href="https://cloud.google.com/docs" target="blank"><img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo" /></a>
-    <img width="12" /> 
-    <a href="https://www.postgresql.org/docs/" target="blank"><img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" /></a>
-    <img width="12" /> 
-    <a href="https://www.mongodb.com/docs/" target="blank"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" /></a>
-    <img width="12" /> 
-    <a href="https://nodejs.org/en/docs/" target="blank"><img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" /></a>
-    <img width="12" /> 
-    <a href="https://react.dev/learn" target="blank"><img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" /></a>
-    <img width="12" /> 
-    <a href="https://kubernetes.io/docs/" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" /></a>
-    <img width="12" /> 
-    <a href="https://www.rabbitmq.com/documentation.html" target="blank"><img src="https://skillicons.dev/icons?i=rabbitmq" height="50" alt="rabbitmq logo"  /></a>
-    <img width="12" /> 
-    <a href="https://redis.io/docs/" target="blank"><img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  /></a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" /></a>
+          </td>
+          <td align="center">
+            <a href="https://fastapi.tiangolo.com/" target="blank"><img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" /></a>
+          </td>
+          <td align="center">
+            <a href="https://learn.microsoft.com/en-us/dotnet/" target="blank"><img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo" /></a>
+          </td>
+          <td align="center">
+            <a href="https://docs.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" /></a>
+          </td>
+          <td align="center">
+            <a href="https://docs.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" /></a>
+          </td>
+          <td align="center">
+            <a href="https://cloud.google.com/docs" target="blank"><img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo" /></a>
+          </td>
+          <td align="center">
+            <a href="https://www.mongodb.com/docs/" target="blank"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" /></a>
+          </td>
+          <td align="center">
+            <a href="https://nodejs.org/en/docs/" target="blank"><img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" /></a>
+          </td>
+          <td align="center">
+            <a href="https://react.dev/learn" target="blank"><img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" /></a>
+          </td>
+          <td align="center">
+            <a href="https://kubernetes.io/docs/" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" /></a>
+          </td>
+          <td align="center">
+            <a href="https://www.rabbitmq.com/documentation.html" target="blank"><img src="https://skillicons.dev/icons?i=rabbitmq" height="50" alt="rabbitmq logo"  /></a>
+          </td>
+          <td align="center">
+            <a href="https://redis.io/docs/" target="blank"><img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  /></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ###
 
